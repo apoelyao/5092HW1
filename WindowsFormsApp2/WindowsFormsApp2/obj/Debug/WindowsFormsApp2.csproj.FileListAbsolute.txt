@@ -1,0 +1,9 @@
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\yaoyu\OneDrive\Desktop\5092\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
